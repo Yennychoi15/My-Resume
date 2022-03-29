@@ -1,0 +1,97 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+.top-box {
+    padding: 5% 10%;
+    text-align: center;
+    font-size: 4rem;
+    color: #243D25;
+}
+
+.top-box h1 {
+    font-size: 4rem;
+    padding: 4% 0 0 0;
+}
+
+.profile {
+    width: 30%;
+    border-radius: 100%;
+    text-align: center;
+    margin: 0 auto 10% auto;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    margin: 5% 5%;
+}
+
+.heading {
+    font-size: 4rem;
+    color: #243D25;
+}
+
+.heaing-right {
+    text-align: center;
+    display: center;
+    margin-bottom: 70px;
+    margin-top: 0;
+    color: #243D25;
+}
+
+.line-breaker {
+    width: 300px;
+    height: 50px;
+}
+
+.row {
+    margin-top: 3%;
+}
+
+#col-left {
+    padding: 4% 3%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background-color: #D49B54;
+    border-left: 10px solid white;
+}
+
+#col-left h4 {
+    color: #243D25;
+}
+
+#col-right {
+    padding: 1% 3%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 0 auto;
+}
+
+#col-right li {
+    list-style-type: none;
+    color:
+}
+
+#col-right h6 {
+    color: #C74B50;
+}
+
+.footer-wrapper {
+    width: 100%;
+    height: 3%;
+    padding: 2% 0;
+    background-color: #5F7464;
+    /* margin-top: 3%; */
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    margin-right: 0;
+}
